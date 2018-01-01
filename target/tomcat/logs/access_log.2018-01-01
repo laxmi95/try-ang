@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:16 +0530] "GET / HTTP/1.1" 200 1359 http-bio-8080-exec-1 1097
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:16 +0530] "GET /webjars/angularjs/1.4.8/angular-route.js HTTP/1.1" 200 35877 http-bio-8080-exec-5 51
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:16 +0530] "GET /resources/static/js/controller.js HTTP/1.1" 200 212 http-bio-8080-exec-7 58
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:16 +0530] "GET /resources/static/css/app.css HTTP/1.1" 200 193 http-bio-8080-exec-2 69
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:16 +0530] "GET /webjars/bootstrap/3.3.6/css/bootstrap.css HTTP/1.1" 200 146082 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:16 +0530] "GET /resources/static/js/app.js HTTP/1.1" 200 480 http-bio-8080-exec-6 70
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:16 +0530] "GET /webjars/angularjs/1.4.8/angular-resource.js HTTP/1.1" 200 27407 http-bio-8080-exec-4 71
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:16 +0530] "GET /webjars/angularjs/1.4.8/angular.js HTTP/1.1" 200 1070726 http-bio-8080-exec-3 130
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:17 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:19 +0530] "GET /resources/static/views/contactus.html HTTP/1.1" 200 254 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:20 +0530] "GET /resources/static/views/gallery.html HTTP/1.1" 200 249 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:20 +0530] "GET /resources/static/images/images.jpeg HTTP/1.1" 200 7901 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [01/Jan/2018:13:20:20 +0530] "GET /resources/static/images/images2.jpeg HTTP/1.1" 200 7769 http-bio-8080-exec-4 4
